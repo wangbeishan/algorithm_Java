@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecb73798-46c3-4164-b815-1229bf2993fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteColumnsToMakeSorted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LengthOfLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LengthOfLastWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
