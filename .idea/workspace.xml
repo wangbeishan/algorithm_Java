@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecb73798-46c3-4164-b815-1229bf2993fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumRoundsToCompleteAllTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumNumberOfArrowsToBurstBalloons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
